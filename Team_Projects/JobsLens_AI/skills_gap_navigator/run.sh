@@ -57,7 +57,7 @@ echo -e "${CYAN}================================================================
 echo ""
 echo -e "${CYAN}🚀 Starting web server...${NC}"
 echo ""
-echo -e "${GREEN}👉 Open your browser to: ${CYAN}http://localhost:5000${NC}"
+echo -e "${GREEN}👉 Open your browser to: ${CYAN}http://localhost:5001${NC}"
 echo ""
 echo -e "${YELLOW}Press Ctrl+C to stop the server${NC}"
 echo ""

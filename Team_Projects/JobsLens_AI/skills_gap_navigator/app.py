@@ -17,7 +17,12 @@ VIZ_DATA_DIR = BASE_DIR / 'visualizations' / 'data'
 
 @app.route('/')
 def index():
-    """Main dashboard page"""
+    """Main dashboard page - seamless version"""
+    return render_template('dashboard.html')
+
+@app.route('/advanced')
+def advanced():
+    """Advanced dashboard with dark theme"""
     return render_template('index.html')
 
 
@@ -83,8 +88,8 @@ if __name__ == '__main__':
     print("\n✓ Starting server...")
     print(f"✓ Base directory: {BASE_DIR}")
     print(f"✓ Visualization data: {VIZ_DATA_DIR}")
-    print("\n🌐 Open your browser to: http://localhost:5000")
+    print("\n🌐 Open your browser to: http://localhost:5001")
     print("\nPress Ctrl+C to stop the server")
     print("="*80)
 
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=5001)
