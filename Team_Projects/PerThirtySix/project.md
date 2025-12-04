@@ -1,4 +1,4 @@
-# PerThirtySix
+# PerThirtySix  ⭐ (Winning Project)
 
 An interactive data visualization exploring the relationship between regulatory environments and economic outcomes using World Bank data.
 
