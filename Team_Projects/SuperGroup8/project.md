@@ -29,10 +29,9 @@ To help understand these changes, group 8 built an interactive dashboard that id
 - Lincoln Chanakira
 - Edward Ghafari
 
-# Jobs and Youth: Challenge 8
+## Jobs and Youth: Challenge 8
 
-See https://www.dc2.org/datadive for details on the challenge areas. Specify which challenge category your team is addressing.
-
+See https://www.dc2.org/datadive for details on the challenge areas.
 
 ## Project Description
 
@@ -44,6 +43,6 @@ The dashboard identifies where digital and AI job demand is rising, where supply
 
 
 ## Links:
-View dashboard: https://challenge-two-chi.vercel.app
+View dashboard: [https://challenge-two-chi.vercel.app](https://challenge-two-chi.vercel.app)
 
-Learn more: [SuperGroup8 - Demand & supply in digitalAI jobs](https://youtu.be/PLBH9zlmcpY) (YouTube)
+[Video: SuperGroup8 - Demand & supply in digitalAI jobs](https://youtu.be/PLBH9zlmcpY)
